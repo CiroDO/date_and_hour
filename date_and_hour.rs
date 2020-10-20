@@ -84,7 +84,7 @@ fn read_seconds(seconds: &mut i32) {
         clear_terminal();
         if given_seconds_are_valid(*seconds) {
             break;
-        } else {print!("Invalid secons!");}
+        } else {print!("Invalid seconds!");}
     }
 }
 
