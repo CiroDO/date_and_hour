@@ -1,4 +1,4 @@
-# date_and_hour
+# date_and_hour (unrefactored)
 A simple Rust program that displays date and hour, and passes time.
 
 This is an amateur little program. I'm new in Rust Lang, and I hope to master it as soon as my experience coding another projects increase in the months/years to come.
